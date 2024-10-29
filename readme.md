@@ -1,0 +1,1 @@
+Esse código cria um pool de workers que processa tarefas em paralelo usando goroutines e canais. O canal de tarefas (taskChannel) distribui as tarefas entre os workers até que todas sejam processadas.
